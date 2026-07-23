@@ -1,0 +1,37 @@
+.myself{
+    color: blue;
+    font-size: 30px;
+}
+.study{
+    color: rgb(5, 104, 11);
+}
+body{
+    background-color: cornsilk;
+}
+.facebook{
+    color: blue;
+}
+.welcome{
+    color: blue;
+}
+.about{
+    color: blue;
+}
+.intro{
+    color: rgb(12, 130, 91);
+}
+.section{
+    background-color: burlywood;
+}
+.feature{
+    color: chocolate;
+}
+.start{
+    color: chocolate;
+}
+.sec2{
+    background-color: blanchedalmond;
+}
+.fbinfo{
+    color: rgba(5, 64, 74, 0.564);
+}
