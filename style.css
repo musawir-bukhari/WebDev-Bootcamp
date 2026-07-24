@@ -31,7 +31,15 @@ body{
 }
 .sec2{
     background-color: blanchedalmond;
+   
+    padding: 20px;
+    padding-top: 40px;
+    margin: 20px;
+
 }
 .fbinfo{
     color: rgba(5, 64, 74, 0.564);
+}
+.imagefb img{
+    
 }
