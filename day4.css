@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(55, 130, 196);
+    margin: 40px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: lightgray;
+}
+.Links{
+    display: flex;
+    gap: 20px;
+}
+.container-services{
+    display: flex;
+    gap: 20px;
+    justify-content: center ;
+    padding: 40px;
+}
+
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+.card{
+    background: white;
+    width: 250px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    text-align: center;
+    justify-content: center;
+}
